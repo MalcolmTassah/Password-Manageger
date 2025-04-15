@@ -1,35 +1,30 @@
-# Password Manager Desktop Application
+# Password Manager - C# Desktop App
 
-A secure password manager built in C# using Windows Forms and AES encryption. This project was developed as part of a team assignment for a Data Structures course.
+This project is a password manager my team and I built for our Data Structures course. It’s a simple desktop app made with Windows Forms in C#. The goal was to securely store user passwords using AES encryption and save them in a SQL database.
 
-## 🔐 Features
-- AES (Advanced Encryption Standard) encryption for storing passwords securely
-- User login system with authentication
-- SQL database for storing encrypted credentials
-- Clean Windows Forms UI built in Visual Studio
-- Secure key management practices
-- Team-based development using sprints and retrospectives
+## Features
+- User login and authentication
+- AES encryption for secure password storage
+- Passwords are stored in a connected SQL database
+- Clean Windows Forms interface
+- Secure key handling (nothing hardcoded or exposed)
 
-## 🧰 Built With
+## Tools & Technologies
 - C#
 - Windows Forms
-- Microsoft SQL Server
+- SQL Server
 - Visual Studio
 
-## 🚀 Getting Started
-1. Clone the repository
-2. Open the `.sln` file in Visual Studio
-3. Set up your database (you may need to configure connection strings)
-4. Run the application
+## How to Run It
+1. Clone or download the project.
+2. Open the `.sln` file in Visual Studio.
+3. Set up a local SQL database and update the connection string in the code.
+4. Build and run the app.
 
-> ⚠️ Make sure to avoid committing real credentials or connection strings.
+## Notes
+- This was a team project. I focused on the encryption/decryption, login system, and part of the UI.
+- Feel free to use the code as a learning reference, but don’t use real passwords when testing it.
 
-## 🤝 Team Collaboration
-Developed in a team of 4 as part of a university project. Responsibilities included:
-- Implementing encryption
-- Building secure login logic
-- UI design and interaction
-- Database integration
+## Why We Built It
+We wanted to build something useful and learn more about encryption, databases, and desktop development along the way.
 
-## 📄 License
-This project is for academic use.
