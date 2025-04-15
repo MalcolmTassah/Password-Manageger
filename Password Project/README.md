@@ -22,7 +22,7 @@ This project is a password manager my team and I built for our Data Structures c
 4. Build and run the app.
 
 ## Notes
-- This was a team project. I focused on the encryption/decryption, login system, and part of the UI.
+- This was a team project. I focused on the encryption/decryption and the login system.
 - Feel free to use the code as a learning reference, but don’t use real passwords when testing it.
 
 ## Why We Built It
