@@ -21,6 +21,11 @@ This project is a password manager my team and I built for our Data Structures c
 3. Set up a local SQL database and update the connection string in the code.
 4. Build and run the app.
 
+## Demo
+![Password Manager Application](assets/Screenshot%202026-08-23%20201206.png)
+
+[▶ Watch the full application demo on YouTube](https://www.youtube.com/watch?v=m7onbGe728I)
+
 ## Notes
 - This was a team project. I focused on the encryption/decryption and the login system.
 - Feel free to use the code as a learning reference, but don’t use real passwords when testing it.
